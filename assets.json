@@ -6,6 +6,14 @@
 			"https://raw.githubusercontent.com/techapiservices/blocker/master/assets.json"
 		]
 	},
+	"tech-special": {
+		"content": "filters",
+		"group": "default",
+		"title": "Tech Special Filters",
+		"contentURL": [
+			"https://raw.githubusercontent.com/techapiservices/blocker/master/special.txt"
+		]
+	},		
 	"public_suffix_list.dat": {
 		"content": "internal",
 		"updateAfter": 19,
